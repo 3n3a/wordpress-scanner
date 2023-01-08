@@ -19,5 +19,5 @@ lol_html = "0.3.2"
 url = "2.3.1"
 phf = { version = "0.11.1", features = ["macros"] }
 rand = "0.8.5"
-base64 = "0.20.0"
+base64 = "0.21.0"
 chrono = "0.4.23"
